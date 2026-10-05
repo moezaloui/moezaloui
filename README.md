@@ -43,7 +43,17 @@ Full-Stack Apps → Docker → CI/CD → AWS → Terraform → Monitoring → Ku
 
 ## 📈 GitHub Activity
 
-<p align="center"> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/moezaloui&query=$.public_repos&label=Projects&color=2ea44f&style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/followers/moezaloui?label=Followers&style=for-the-badge&logo=github" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moezaloui&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&custom_title=Total%20Commits" height="120"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moezaloui&layout=compact&theme=transparent&hide_border=true" height="120"/> </p>
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/moezaloui&query=%24.public_repos&label=Repos&color=2ea44f&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/moezaloui?label=Followers&style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moezaloui&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&custom_title=Total%20Commits" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moezaloui&layout=compact&theme=transparent&hide_border=true" height="120"/>
+</p>
 
 ## 🧠 Philosophy
 
